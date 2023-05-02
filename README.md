@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://Abhishek9229.io)
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
 <h1 align="center">Hi 👋, I'm Sachin Gupta</h1>
 <h3 align="center">A passionate App developer from India</h3>
