@@ -31,21 +31,36 @@
  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sachingupta82&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sachingupta82&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachingupta82&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachingupta82&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachingupta82&theme=midnight-purple&hide_border=false" alt="GitHub Streak" /><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachingupta82&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sachingupta82&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachingupta82&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
+</div>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub README Quote" />
+</div>
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sachingupta82&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sachingupta82&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</div>
 
-- <h3 align="left">Connect with me:</h3>
+
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/SachinG44364714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhishek_t" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sachin-gupta-904042268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin Gupta" height="30" width="40" /></a>
